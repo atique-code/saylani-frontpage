@@ -1,0 +1,131 @@
+.intro {
+    background-color: #fff !important;
+    text-align: center !important;
+  }
+
+  #heading {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5rem !important;
+
+  }
+
+  div.intro p {
+    padding: 5px 80px 5px 80px !important;
+  }
+
+  .text {
+    text-align: justify !important;
+  }
+
+  .number {
+    text-align: center;
+  }
+
+  .stat {
+    background-color: blue;
+    padding: 30px 0px !important;
+    color: #fff;
+    margin-top: 209px;
+  }
+
+  .stat-items h2 {
+    font-weight: bold;
+    font-size: 30px;
+  }
+
+  .stat p {
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  .heading-center{
+    text-align: center !important;
+  }
+  .service{
+    background-color: #316dc3;
+}
+
+.text-white{
+    padding: 20px 0px !important;
+    padding-left: 30px;
+}
+
+#padding{
+    padding-left: 20px !important;
+    margin: 20px !important;
+}
+.container{
+    margin-top: 20px !important;
+    /* background-color: #35373a; */
+    width: 100%;
+}
+ .card-img-top {
+    width: 100px;
+    margin-left: 78px;
+ }
+
+ .card-title , .card-text{
+    text-align: center;
+    /* margin-left: 61px; */
+ }
+ 
+  /* img{
+    padding-top: 36px
+  } */
+  .card{
+    box-shadow: 10px 2px rgb(53, 49, 49);
+    transition: 0.7s;
+  }
+  .card:hover{
+    transform: scale(0.9);
+  }
+
+  .b-intro{
+    margin-top: 50px;
+    text-align: center;
+  }
+  .b-image{
+    height: 90px;
+  }
+ .two2{
+   float: right; 
+ }
+ .box{
+    display: inline-block;
+    border: 2px solid rgb(116, 110, 110);
+    width: 150px;
+    padding: 20px;
+    margin-left: 10px;
+    background-color: #eee;
+    
+ }
+ .footer{
+    background-color: #000;
+ }
+ .container-end{
+    max-width: 1170px;
+    margin: auto;
+ }
+ ul{
+    list-style: none;
+ }
+ .footer-col{
+    width: 25%;
+    padding: 0px 15px;
+ }
+ .footer-col ul li a{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 300;
+ }
+ .footer-col .social-links a{
+    display: inline-block;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.2 );
+    margin: 0px 10px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    color: #fff;
+ }
